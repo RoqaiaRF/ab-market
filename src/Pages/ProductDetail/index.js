@@ -25,9 +25,9 @@ const ProductDetail = () => {
 
   const whatssapNumber = ()=> {
     if (product_id == "4"){
-    return "962779243364"
+    return "962798949556"
   } else {
-    return "96279590409"
+    return "962798949556"
   }
 }
   useEffect(() => {
@@ -85,7 +85,7 @@ const ProductDetail = () => {
                   <a
                     aria-label="ارسل طلبك بالواتساب<"
                     href={
-                      "https://api.whatsapp.com/send/?phone=962779243364" +"&text=" +
+                      "https://api.whatsapp.com/send/?phone=962798949556" +"&text=" +
                       " مرحبا  أرغب بشراء " +
                       encodeURIComponent(product.title)+ "+&type=phone_number&app_absent=0"
                     }
@@ -129,7 +129,7 @@ const ProductDetail = () => {
                   <a
                     aria-label="ارسل طلبك بالواتساب<"
                     href={
-                      "https://api.whatsapp.com/send/?phone=962779243364" +"&text=" +
+                      "https://api.whatsapp.com/send/?phone=962798949556" +"&text=" +
                       " مرحبا أرغب بشراء " +
                       encodeURIComponent(product.title)+ "+&type=phone_number&app_absent=0"
                     }
