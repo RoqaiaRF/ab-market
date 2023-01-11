@@ -31,25 +31,25 @@ const allproducts = [
     category: "غاز",
     images: [
       {
-        url: "https://i.postimg.cc/Z05kDJJH/1.jpg",
+        url: "https://i.ibb.co/V9Nk3fF/1.jpg",
       },
       {
-        url: "https://i.postimg.cc/1nMk5jrD/2.jpg",
+        url: "https://i.ibb.co/MfQM5d6/2.jpg",
       },
       {
-        url: "https://i.postimg.cc/9z866sMh/3.jpg",
+        url: "https://i.ibb.co/9NQYR1j/3.jpg",
       },
       {
-        url: "https://i.postimg.cc/30RPyFtV/4.jpg",
+        url: "https://i.ibb.co/9gjRwf2/4.jpg",
       },
       {
-        url: "https://i.postimg.cc/t1d08T1S/5.jpg",
+        url: "https://i.ibb.co/CbsSZpX/5.jpg",
       },
      
     ],
 
     image:
-      "https://i.postimg.cc/Z05kDJJH/1.jpg",
+      "https://i.ibb.co/V9Nk3fF/1.jpg",
     rating: {
       rate: 3.9,
       count: 120,
@@ -59,3 +59,4 @@ const allproducts = [
 ];
 
 export default allproducts;
+
