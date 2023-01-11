@@ -53,41 +53,6 @@ const allproducts = [
   },
   
   
-   {
-    id: 2,
-    title: "السماعه الذكية",
-    price: 22,
-    description: `
-    
-    انها سماعات ذكية للغاية 
-    
-        `,
-    category: "سماعات ذكية",
-    images: [
-      { url: "https://i.ibb.co/0MQ0dYb/1.jpg" },
-      {
-        url: "https://i.ibb.co/dgrmQr2/2.jpg",
-      },
-      {
-        url: "https://i.ibb.co/9p1QDr3/3.jpg",
-      },
-      {
-        url: "https://i.ibb.co/9n5x0cr/4.jpg",
-      },
-      {
-        url: "https://i.ibb.co/qCD2xmX/5.jpg",
-      },
-    ],
-
-    image: "https://i.ibb.co/0MQ0dYb/1.jpg",
-    rating: {
-      rate: 3.9,
-      count: 120,
-    },
-  },
-  
-  
-  
   
 ];
 
