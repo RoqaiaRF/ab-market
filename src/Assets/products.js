@@ -30,9 +30,7 @@ const allproducts = [
         `,
     category: "غاز",
     images: [
-      {
-        url: "https://i.ibb.co/V9Nk3fF/1.jpg",
-      },
+      { url: "https://i.ibb.co/V9Nk3fF/1.jpg" },
       {
         url: "https://i.ibb.co/MfQM5d6/2.jpg",
       },
@@ -45,18 +43,14 @@ const allproducts = [
       {
         url: "https://i.ibb.co/CbsSZpX/5.jpg",
       },
-     
     ],
 
-    image:
-      "https://i.ibb.co/V9Nk3fF/1.jpg",
+    image: "https://i.ibb.co/V9Nk3fF/1.jpg",
     rating: {
       rate: 3.9,
       count: 120,
     },
   },
-  
 ];
 
 export default allproducts;
-
