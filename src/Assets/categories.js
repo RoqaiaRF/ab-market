@@ -1,3 +1,3 @@
-const categories = [ "غاز", "صوبات", "سماعات ذكية"];
+const categories = [ "غاز", "صوبات"];
 
 export default categories;
